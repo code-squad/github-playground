@@ -5,4 +5,7 @@ public class Test {
     public static void printRebaseMessage(){
         System.out.println("rebase");
     }
+    public void printTestMessage(){
+        System.out.println("Test");
+    }
 }

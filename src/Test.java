@@ -8,4 +8,7 @@ public class Test {
     public void printTestMessage(){
         System.out.println("Test");
     }
+    public void add(){
+        System.out.println("pull");
+    }
 }

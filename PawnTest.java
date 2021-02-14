@@ -27,4 +27,7 @@ class PawnTest {
 
     @Test
     public void 아무거나입력() {}
+
+    @Test
+    public void 테스트커밋을위한() {}
 }

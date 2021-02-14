@@ -20,7 +20,7 @@ class PawnTest {
     }
 
     @Test
-    public void create_기본생성자() throws Exception {
+    public void 여기도_수정해봤어요_네넵() throws Exception {
         Pawn pawn = new Pawn();
         assertThat(pawn.getColor()).isEqualTo("white");
     }

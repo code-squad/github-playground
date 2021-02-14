@@ -24,4 +24,7 @@ class PawnTest {
         Pawn pawn = new Pawn();
         assertThat(pawn.getColor()).isEqualTo("white");
     }
+
+    @Test
+    public void 아무거나입력() {}
 }

@@ -9,7 +9,7 @@ class PawnTest {
 
     @Test
     @DisplayName("흰색 폰과 검은색 폰이 생성되어야 한다")
-    void 폰을_만든다() {
+    void 폰을_만든다테스트수정수정수정() {
         verifyPawn("white");
         verifyPawn("black");
     }

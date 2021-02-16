@@ -9,7 +9,9 @@ class PawnTest {
 
     @Test
     @DisplayName("흰색 폰과 검은색 폰이 생성되어야 한다")
-    void 네_이부분_수정했습니다() {
+
+    void 폰을_만든다테스트수정수정수정() {
+
         verifyPawn("white");
         verifyPawn("black");
     }
@@ -24,4 +26,10 @@ class PawnTest {
         Pawn pawn = new Pawn();
         assertThat(pawn.getColor()).isEqualTo("white");
     }
+
+    @Test
+    public void 아무거나입력() {}
+
+    @Test
+    public void 테스트커밋을위한() {}
 }
